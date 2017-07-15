@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "equimper",
+    "prettier",
+    "prettier/react"
+  ],
+  "rules": {
+    "react/sort-comp": 0
+  }
+}

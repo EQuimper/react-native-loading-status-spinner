@@ -66,3 +66,7 @@ const styles = StyleSheet.create({
   }
 });
 ```
+
+## Credit
+
+I've done this library after reading this blog post [here](https://goshakkk.name/react-native-activity-indicator-fetch/?utm_source=hashnode.com) By Gosha Arinich

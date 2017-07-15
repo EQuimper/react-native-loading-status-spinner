@@ -2,6 +2,8 @@
 
 An extension component to the StatusBar to show the spinner on IOS only.
 
+![](https://image.ibb.co/fX6xZa/Screen_Shot_2017_07_14_at_10_34_33_PM.png)
+
 ## Installation
 
 ```

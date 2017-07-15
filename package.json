@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading-status-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An extension of fetch request for make the spinner working by default on ios status bar",
   "main": "./src/LoadingStatusSpinner.js",
   "author": "EQuimper <quimperemanuel@gmail.com>",
